@@ -5,8 +5,9 @@
           android:title="Nueva Tarea" />
     
     <item android:id="@+id/regresar"
-          android:title="Regresar" />
+          android:title="Cronograma" />
     
     <item android:id="@+id/finalizar"
-          android:title="Finalizar" />
+          android:title="Catalogos" />
+    <item android:id="@+id/estadisticas" android:title="Estadisticas"></item>
 </menu>
